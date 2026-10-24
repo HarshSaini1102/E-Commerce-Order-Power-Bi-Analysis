@@ -39,11 +39,12 @@ Standardize Sales Playbooks: Address variance among mid-tier sales managers by s
 Expand Average Order Value: Leverage an AOV exceeding ₹5,300 to implement bundled product offerings and free-shipping order thresholds.
 
 📂 Repository Structure
-
-├── Data/            # Transactional dataset (Excel)
-├── Dashboards/      # Production Power BI Report (.pbix)
-├── Documentation/   # PDF dashboard exports
-└── README.md        # Project documentation
-
+- `Power BI Case Study Solution.pbix` – Production Power BI report and dashboard model
+- `case-study-orders-dataset-power...` – Raw e-commerce transactional source dataset
+- `Orders.png` – Overview visual of total order metrics and KPIs
+- `Sales in each country.png` – Visual breakdown of country-level sales and regional performance
+- `Salestarget.png` – Visual analysis tracking sales targets versus actual achievements
+- `Salesteam.png` – Visual overview evaluating individual sales manager performance
+- `README.md` – Comprehensive project documentation
 
 Developed for the E-Commerce Data Analytics Portfolio — July 2026
